@@ -1,0 +1,16 @@
+{
+    "companyList": [
+        {
+            "name": "Facebook"
+        },
+        {
+            "name": "Apple"
+        },
+        {
+            "name": "Google"
+        },
+        {
+            "name": "Amazon"
+        }
+    ]
+}

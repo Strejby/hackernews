@@ -1,0 +1,17 @@
+.banner {
+    width: 100vw;
+    height: fit-content;
+    padding: 8px;
+    background-color: #1c1c1e;
+    color: #d2d2d2;
+    transition: ease-in-out 200ms;
+    font-size: 14px;
+
+    &:hover {
+        color: #ffffff;
+    }
+
+    .marquee a {
+        margin: 0px 10px;
+    }
+}
